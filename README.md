@@ -6,21 +6,21 @@ date: 2020-07-25T00:20:00Z
 
 DIY 一只四足机器狗，最低只需要 900 美元？它是斯坦福学生机器人俱乐部的新成员「Pupper」。
 
-![6664-iwtqvym2334331](/shared/website/robotics/handmake_spot/6664-iwtqvym2334331.png)
+![6664-iwtqvym2334331](6664-iwtqvym2334331.png)
 
 自从波士顿动力 Spot 机器狗开启零售以来，不知道有多少人迷上了这只价值 53 万元人民币的昂贵宠物。当然，除了少数大佬以外，人们碍于经济实力，也只能远远观望一下……
 
 现在，我们能够以一个更完美的价格，自己 DIY 四足机器狗了。最近，斯坦福学生机器人俱乐部迎来了家族新成员「Pupper」，零件成本最低仅需 900 美元。
 
-![33ae-iwtqvym2334329](/shared/website/robotics/handmake_spot/33ae-iwtqvym2334329.png)
+![33ae-iwtqvym2334329](33ae-iwtqvym2334329.png)
 
 Pupper 可以做到跳跃、小跑、遛弯，用户使用游戏手柄控制它的移动方式和目的地。Pupper 内部的树莓派接受到指令后，将控制伺服电机的运动，以正确的方式行进到正确的地点。
 
-![6eac-iwtqvym2334450](/shared/website/robotics/handmake_spot/6eac-iwtqvym2334450.gif)
+![6eac-iwtqvym2334450](6eac-iwtqvym2334450.gif)
 
 小步快跑，像极了遛狗时的样子。
 
-![5d7d-iwtqvym2334447](/shared/website/robotics/handmake_spot/5d7d-iwtqvym2334447.gif)
+![5d7d-iwtqvym2334447](5d7d-iwtqvym2334447.gif)
 
 跳跃动作也十分轻盈。
 
@@ -52,7 +52,7 @@ CAD 文件：<https://a360.co/2TEh4gQ>
 
 这个采购订单大概这么长：
 
-![a0c6-iwtqvym2334535](/shared/website/robotics/handmake_spot/a0c6-iwtqvym2334535.png)
+![a0c6-iwtqvym2334535](a0c6-iwtqvym2334535.png)
 
 某些零件需要量身定制，包括碳纤维布线零件、3D 打印零件、配电印刷电路板和电动机。团队制定了一份详细的表格可供参考。
 
@@ -60,7 +60,7 @@ CAD 文件：<https://a360.co/2TEh4gQ>
 
 预置套件方面，斯坦福学生机器人俱乐部有两家推荐的采购渠道，一家是 Cypress Software，一家是芒砀科技（某宝上甚至可以分期）。
 
-![5cc6-iwtqvym2334532](/shared/website/robotics/handmake_spot/5cc6-iwtqvym2334532.png)
+![5cc6-iwtqvym2334532](5cc6-iwtqvym2334532.png)
 
 团队也提供了关于硬件组装和软件安装方面的详细教程，
 
@@ -72,15 +72,15 @@ CAD 文件：<https://a360.co/2TEh4gQ>
 
 斯坦福学生机器人俱乐部是一个完全由学生运营的团体。除了 Pupper，他们还打造过火星车 Anakin Sandwalker 以及四足机器狗 Doggo、Woofer 等产品。这些机器人作品的代码或设计文件都是开源的。
 
-![7de7-iwtqvym2334569](/shared/website/robotics/handmake_spot/7de7-iwtqvym2334569.png)
+![7de7-iwtqvym2334569](7de7-iwtqvym2334569.png)
 
 火星车 Anakin Sandwalker。
 
-![99c8-iwtqvym2334571](/shared/website/robotics/handmake_spot/99c8-iwtqvym2334571.gif)
+![99c8-iwtqvym2334571](99c8-iwtqvym2334571.gif)
 
 Doggo ，能完成小跑、后空翻和跳跃等多种动作。
 
-![5c7c-iwtqvym2334611](/shared/website/robotics/handmake_spot/5c7c-iwtqvym2334611.png)
+![5c7c-iwtqvym2334611](5c7c-iwtqvym2334611.png)
 
 Woofer12 自由度机器人。
 
